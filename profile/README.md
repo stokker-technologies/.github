@@ -1,12 +1,12 @@
-## Hi there 👋
+# Stokker Technologies
 
-<!--
+**Stokker Technologies** is a closed group of friends based in **Switzerland** who collaborate on **electronics projects**. Our focus is on **hardware development**, including circuit design, PCB layout, and firmware development. Currently, we work on projects **mostly for fun**, exploring different areas of electronics and embedded systems.
 
-**Here are some ideas to get you started:**
+## What We Do
+- Develop **custom electronic circuits** and **PCBs**.
+- Experiment with **power electronics, embedded systems, and RF design**.
+- Share knowledge and collaborate on **closed-group projects**.
+- Contribute to **KiCad libraries and design automation tools**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact
+For inquiries, reach out via GitHub or other platforms where we engage with the community.
